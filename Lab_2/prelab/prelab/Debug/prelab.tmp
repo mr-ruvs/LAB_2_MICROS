@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\labs\Lab_2\prelab\prelab\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\labs\Lab_2\prelab\prelab\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\labs\Lab_2\prelab\prelab\Debug\prelab.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>prelab.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>prelab.map</FILE>
+  <FILE>prelab.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Setup><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\labs\Lab_2\prelab\prelab\main.asm</FILE><LINE>22</LINE></Setup>
+  <Init_T0><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\labs\Lab_2\prelab\prelab\main.asm</FILE><LINE>66</LINE></Init_T0>
+  <LOOP><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\labs\Lab_2\prelab\prelab\main.asm</FILE><LINE>36</LINE></LOOP>
+  <LEDS><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\labs\Lab_2\prelab\prelab\main.asm</FILE><LINE>58</LINE></LEDS>
+ </LABELS>
+</ASSEMBLER_INFO>

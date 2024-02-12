@@ -1,0 +1,36 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\labs\Lab_2\lab_2\lab_2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\labs\Lab_2\lab_2\lab_2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\labs\Lab_2\lab_2\lab_2\Debug\lab_2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>lab_2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>lab_2.map</FILE>
+  <FILE>lab_2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <T7S><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\labs\Lab_2\lab_2\lab_2\main.asm</FILE><LINE>23</LINE></T7S>
+  <SETUP><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\labs\Lab_2\lab_2\lab_2\main.asm</FILE><LINE>24</LINE></SETUP>
+  <LOOP><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\labs\Lab_2\lab_2\lab_2\main.asm</FILE><LINE>43</LINE></LOOP>
+  <DB_1><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\labs\Lab_2\lab_2\lab_2\main.asm</FILE><LINE>57</LINE></DB_1>
+  <DB_2><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\labs\Lab_2\lab_2\lab_2\main.asm</FILE><LINE>67</LINE></DB_2>
+  <delay><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\labs\Lab_2\lab_2\lab_2\main.asm</FILE><LINE>59</LINE></delay>
+  <AUMENTAR><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\labs\Lab_2\lab_2\lab_2\main.asm</FILE><LINE>77</LINE></AUMENTAR>
+  <delay2><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\labs\Lab_2\lab_2\lab_2\main.asm</FILE><LINE>69</LINE></delay2>
+  <DECREMENTAR><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\labs\Lab_2\lab_2\lab_2\main.asm</FILE><LINE>86</LINE></DECREMENTAR>
+ </LABELS>
+</ASSEMBLER_INFO>
